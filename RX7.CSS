@@ -42,15 +42,22 @@ head{
 .RX7description h2 {
     font-size:30px;
     font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
 }
 
 .RX7description p {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
 }
 
 div{
     height:30vh;
     display:grid;
     place-items:center;
+}
+
+.RX7highlight{
+    background-color: black;
+    padding: 2px;
 }
